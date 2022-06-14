@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8cb56b96-b5d1-4509-ae9e-c4ccd83aee3e" name="host">
+        <fileTransfer rootFolder="/home/palyany2/public_html" accessType="SFTP" host="uashared30.twinservers.net" port="21098" sshConfigId="e4299916-2a16-4e12-a193-6b83ad7b6c90" sshConfig="palyany2@uashared30.twinservers.net:21098:21 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

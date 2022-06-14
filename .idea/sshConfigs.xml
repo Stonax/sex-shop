@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="uashared30.twinservers.net" id="e4299916-2a16-4e12-a193-6b83ad7b6c90" localPort="21" port="21098" nameFormat="DESCRIPTIVE" username="palyany2" useOpenSSHConfig="false" />
+    </configs>
+  </component>
+</project>
